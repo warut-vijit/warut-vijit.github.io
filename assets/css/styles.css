@@ -1,0 +1,15 @@
+:root {
+	--dark: #2E3532;
+	--accent: #8B2635;
+	--light: #E0E2DB;
+	--white: #F0F0F0;
+	--grey: #D2D4C8;
+	--highlight: #D3EFBD;
+}
+body {
+	background-color: var(--dark);
+	font-family: 'Droid Serif', serif;
+}
+h1.title {
+	color: var(--white);
+}
